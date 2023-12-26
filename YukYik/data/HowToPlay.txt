@@ -1,0 +1,6 @@
+How to play : 
+1. The screen will display an exercise pose with a direction arrow.
+2. Press the direction button corresponding to the direction arrow shown on the screen.
+3. If you press the wrong button, the alert 'OOPS!' will appear on the screen. Please try again to continue playing the game.
+4. When you press the direction button until the number of moves is complete. A new exercise will appear on the screen.
+5. You will earn a high score when you can play the game until completion, using a short time to play the game and pressing the direction buttons with fewer mistakes.

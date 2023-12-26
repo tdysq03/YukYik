@@ -1,0 +1,12 @@
+1	/images/ex_name1.png	/images/ex1_1.png	right	/images/ex1_2.png	left
+2	/images/ex_name2.png	/images/ex2_1.png	up	/images/ex2_2.png	down
+3	/images/ex_name3.png	/images/ex3_1.png	left	/images/ex3_2.png	right
+4	/images/ex_name4.png	/images/ex4_1.png	up	/images/ex4_2.png	down
+5	/images/ex_name5.png	/images/ex5_1.png	left	/images/ex5_2.png	right
+6	/images/ex_name6.png	/images/ex6_1.png	up	/images/ex6_2.png	down
+7	/images/ex_name7.png	/images/ex7_1.png	left	/images/ex7_2.png	right
+8	/images/ex_name8.png	/images/ex8_1.png	up	/images/ex8_2.png	down
+9	/images/ex_name9.png	/images/ex9_1.png	left	/images/ex9_2.png	right
+10	/images/ex_name10.png	/images/ex10_1.png	left	/images/ex10_2.png	right
+11	/images/ex_name11.png	/images/ex11_1.png	down	/images/ex11_2.png	up
+12	/images/ex_name12.png	/images/ex12_1.png	right	/images/ex12_2.png	left
